@@ -17,6 +17,12 @@ github.
 
 Estas são as referências:
 
+  - cidrap <http://www.cidrap.umn.edu/covid-19/maps-visuals>
+  - Dados atualizados por dia/hora <https://github.com/pomber/covid19>
+  - COVID daily report <https://icebob.info/covid19/>
+  - COVID daily report
+    <https://mdusmanansari.github.io/COVID-19-Global-Report/>
+  - COVID chart <https://jeetiss.github.io/covid-charts/>
   - JSON com os dados <https://api.coronaanalytic.com/brazil>
   - Código em python <https://github.com/belisards/coronabr>
   - Crawler com os relatorios em PDF
