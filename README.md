@@ -17,6 +17,8 @@ github.
 
 Estas são as referências:
 
+  - eficiens <https://www.eficiens.com/coronavirus-statistics>
+  - worldometers <https://www.worldometers.info/coronavirus/#countries>
   - cidrap <http://www.cidrap.umn.edu/covid-19/maps-visuals>
   - Dados atualizados por dia/hora <https://github.com/pomber/covid19>
   - COVID daily report <https://icebob.info/covid19/>
